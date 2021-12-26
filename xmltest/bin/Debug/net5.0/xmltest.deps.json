@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "xmltest/1.0.0": {
+        "dependencies": {
+          "xmlunitylib": "1.0.0"
+        },
+        "runtime": {
+          "xmltest.dll": {}
+        }
+      },
+      "xmlunitylib/1.0.0": {
+        "runtime": {
+          "xmlunitylib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "xmltest/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "xmlunitylib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

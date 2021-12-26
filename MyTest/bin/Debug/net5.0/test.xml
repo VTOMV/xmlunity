@@ -1,0 +1,9 @@
+<Root>
+    <LinkData>
+        <Name>Child</Name>
+        <Data>
+            <User>A</User>
+            <User>B</User>
+        </Data>
+    </LinkData>
+</Root>

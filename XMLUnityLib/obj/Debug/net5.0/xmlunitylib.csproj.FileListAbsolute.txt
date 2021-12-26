@@ -1,0 +1,12 @@
+D:\Git\XMLUniy\XMLUnityLib\bin\Debug\net5.0\xmlunitylib.deps.json
+D:\Git\XMLUniy\XMLUnityLib\bin\Debug\net5.0\xmlunitylib.dll
+D:\Git\XMLUniy\XMLUnityLib\bin\Debug\net5.0\ref\xmlunitylib.dll
+D:\Git\XMLUniy\XMLUnityLib\bin\Debug\net5.0\xmlunitylib.pdb
+D:\Git\XMLUniy\XMLUnityLib\obj\Debug\net5.0\xmlunitylib.csproj.AssemblyReference.cache
+D:\Git\XMLUniy\XMLUnityLib\obj\Debug\net5.0\xmlunitylib.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\XMLUniy\XMLUnityLib\obj\Debug\net5.0\xmlunitylib.AssemblyInfoInputs.cache
+D:\Git\XMLUniy\XMLUnityLib\obj\Debug\net5.0\xmlunitylib.AssemblyInfo.cs
+D:\Git\XMLUniy\XMLUnityLib\obj\Debug\net5.0\xmlunitylib.csproj.CoreCompileInputs.cache
+D:\Git\XMLUniy\XMLUnityLib\obj\Debug\net5.0\xmlunitylib.dll
+D:\Git\XMLUniy\XMLUnityLib\obj\Debug\net5.0\ref\xmlunitylib.dll
+D:\Git\XMLUniy\XMLUnityLib\obj\Debug\net5.0\xmlunitylib.pdb
